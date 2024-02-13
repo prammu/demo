@@ -1,2 +1,2 @@
 # demo
-jnn
+jnn ce
